@@ -1,6 +1,6 @@
 # Hey i'm Johann 👋
 
-![](image2.png)
+![](image.png)
 
 I'm a young **french** developer 🇫🇷 And i like to code in many languages like _C_, _C++_, _Python_, _Javascript_, _PHP_, _HTML_, _CSS_, _Dart_ _etc_...
 
