@@ -2,7 +2,7 @@
 
 I'm a  **french** developer 🇫🇷, with a passion for crafting digital
 
-- Currently, I’m working on an e-commerce website, coming soon... 😏
+- I’m currently working on a game app, coming soon… 😏
 - My latest project was [Iv Patisserie](https://ivpatisserie.com/), a cakeshop website!
 - If you want to know more about my projects, you can check my [Portfolio](https://johanncvl.com/) 🌞
  
