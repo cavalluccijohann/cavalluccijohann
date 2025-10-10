@@ -9,4 +9,4 @@ I'm a  **french** developer 🇫🇷, with a passion for crafting digital
 
 ## Contact me 📨 
 
-#### You can contact me via [LinkedIn](https://www.linkedin.com/in/johann-cavallucci/), [Instagram](https://www.instagram.com/johann.cvl/?hl=fr) or [Email](mailto:johann.cavallucci@epitech.eu)
+#### You can contact me via [LinkedIn](https://www.linkedin.com/in/johann-cavallucci/), [My Portfolio](https://www.johanncvl.com/contact) or [Email](mailto:johann.cavallucci@epitech.eu)
