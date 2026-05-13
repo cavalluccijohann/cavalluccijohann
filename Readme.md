@@ -2,10 +2,8 @@
 
 I'm a  **french** developer 🇫🇷, with a passion for crafting digital
 
-- I’m currently working on a game app, coming soon… 😏
-- My latest project was [Iv Patisserie](https://ivpatisserie.com/), a cakeshop website!
+- My latest project was [Raftou](https://raftou.com/), a game application, developed and designed solo!
 - If you want to know more about my projects, you can check my [Portfolio](https://johanncvl.com/) 🌞
- 
 
 ## Contact me 📨 
 
